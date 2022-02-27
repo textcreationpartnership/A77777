@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ballance put into the hand of every rationall English-man, to poize the state of this kingdome; supposed to bee deformed in the yeare 1639. Cryed up to be reformed in the yeare 1646. The change of an age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77777</idno>
+            <idno type="STC">Wing B541</idno>
+            <idno type="STC">Thomason E381_8</idno>
+            <idno type="STC">ESTC R201410</idno>
+            <idno type="EEBO-CITATION">99861924</idno>
+            <idno type="PROQUEST">99861924</idno>
+            <idno type="VID">160165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160165)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E381[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ballance put into the hand of every rationall English-man, to poize the state of this kingdome; supposed to bee deformed in the yeare 1639. Cryed up to be reformed in the yeare 1646. The change of an age.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare of reformation, M.D.C.XLVI. [1646, i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "London March 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160165:1" rendition="simple:additions"/>
+            <p>THE BALLANCE PVT INTO THE HAND OF EVERY RATIONALL Engliſh Man, To Poize the State of this Kingdome; ſup<g ref="char:EOLhyphen"/>poſe to bee Deformed in the yeare 1639.</p>
+            <p>Cryed up to be Reformed in the yeare 1646.</p>
+            <p>The Change of an Age.</p>
+            <p>
+               <add>London</add> Printed in the Yeare of Reformation, M.D.C.XLVI. <add>march 22</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160165:2"/>
+            <pb n="3" facs="tcp:160165:2"/>
+            <head>The Ballance Put into the hands of every Ratio<g ref="char:EOLhyphen"/>nall <hi>Engliſh Man,</hi> to Poiſe the State of this King<g ref="char:EOLhyphen"/>dome.</head>
+            <p>IT is no ſafe taske in a time like this, to write truth of Men and Manners, the viſible Authors, and known meanes of ſo unexampled diſtraction, and confuſion: when ti's deſtructive, but to be in ſuſpect to obſerve them: And tis an unſufferable weight to be borne by any Man, who can make title to underſtanding; to heare with ſilence, people pretending to Religion, and to nothing elſe; crying up againſt reaſon, a Reformation, in which them ſelves are (however in themſelves inſenſibly) to the ſtranger ſtanders by viſibly rui<g ref="char:EOLhyphen"/>ned. Provoked therefore by my compaſſion to my Country, the ſeate of mindes as unnaturall as the warre, by which it lan<g ref="char:EOLhyphen"/>guiſheth, and by pitty of my gull'd (becauſe willing to bee gull'd) Country-men, I have endeavoured to convince the opiniators of a Reformation: by putting yeſterday and to day, this and the end of the preceeding Septenarie in the Bal<g ref="char:EOLhyphen"/>lance. And therefore invite ſuch who are in any capacitie of be<g ref="char:EOLhyphen"/>ing aduiſed, to a retroſpection, ſo farre as the yeare 1639. Where they may if they looke not thorow State-ſpectacles, ſee a King ſelected, whoſe Royall, or Chriſtian reputation Fame dared not; could not, with ſo much as a whiſper, ſulley:
+<pb n="4" facs="tcp:160165:3"/>Rich in the accumulate hearts of a Numerous, and Loyall peo<g ref="char:EOLhyphen"/>ple, happy, eminently happy, in his Royall Conſort; and in the pledges of their mutuall loves, and of our ſucceeding, (hope<g ref="char:EOLhyphen"/>fully ſucceeding) peace, in their aſſured ſucceſſion: Strong in Armes, and ſtor'd with crowded Magazines of all Militarie proviſions; Predominant at Sea above his Anceſtors, by a for<g ref="char:EOLhyphen"/>midable Navie; and in an inſtant able to confront an Army, (to ſay no more) in the Field, like a King of ſuch a King<g ref="char:EOLhyphen"/>dome: A Court in which (himſelfe being preſident) the Men and Manners compleated an Academie.</p>
+            <p>They may ſee a Church full of light, Order and Diſcipline, having a forme beautifull, and an inſide garniſht, and enricht with as much (not to ſwell the compariſon) Learning, and Piety, as obſervation, or ſtorie can attribute to any ſince Chri<g ref="char:EOLhyphen"/>ſtianity was a profeſſion. Thoſe then inconſiderable few the oppoſers, or interrupters of its peace, and Government; being perſons of as obſcure marke, as of clandeſtine and mycheing motion, skulking like young Foxes, and no ſooner unkenneld, but as Vermine purſued; the Generall <hi>Odium</hi> being con<g ref="char:EOLhyphen"/>tracted upon them: They may ſee a Nobility, Luſtrous, like mirrors by the Sunnes, their Princes, reflex, in the badges of their honour, and office, a flouriſhing Gentry, plentifully ſha<g ref="char:EOLhyphen"/>ring dignities, and truſts in the Militarie, and civill Magiſtra<g ref="char:EOLhyphen"/>cy. An obedient, peacefull, and contented Cominalty; the num<g ref="char:EOLhyphen"/>ber of the factions of all conditions, ſcarce juſtifying the name of a number: Cities exemplarie to our neighbours for their Government, and envied by them for their opulencie in pre<g ref="char:EOLhyphen"/>ſent havings, and aſſured growth in an encreaſing Trade, U<g ref="char:EOLhyphen"/>niverſities both of Divinity, the Arts, and Lawes Common, and Civill, beyond any forraigne example: Stoar'd with able pro<g ref="char:EOLhyphen"/>feſſors, ſedulous, and well-manner'd Students; taught by Lear<g ref="char:EOLhyphen"/>ned and frequent Lectures, in all Studies, and rudiments, con<g ref="char:EOLhyphen"/>ducing to the building up of men, for a ſucceſſion of Miniſters, and Counſellors: a Land populous, plenteous, at unity with it ſelfe; the gaze and envy of forraigne Nations, and in ſo high a degree of happineſſe, as to be almoſt incapable of a degree of happineſſe in addition, or diminution, no meanes but mi<g ref="char:EOLhyphen"/>racle,
+<pb n="5" facs="tcp:160165:3"/>or warre to abate it to miſery, and the meanes to beget ſuch a warre to the beſt underſtanders, appearing to bee of no leſſe extent then a miracle. It is the height of unhappi<g ref="char:EOLhyphen"/>neſſe, to looke backward at ſo much of bleſſing, and to ſay it was. Conſider the preſent reformed con<g ref="char:EOLhyphen"/>dition of all theſe; And ſee a King rejected, and in his good name of King, and Chriſtian blaſphemed: Poore by the loſſe of the deceived, ſeduced hearts, of an abuſed and miſgui<g ref="char:EOLhyphen"/>ded people; Divorced from his injuriouſly maligned (becauſe exemplary faithfull) Conſort: diſtanced from the ſight of his deare and Princely Iſſue, diſperſed like a ſcattered Covye; that ſucceſſion, of whoſe likelihood, each man had cauſe to joy in, being become diſputable; a King reduced to leſſe power, Ar<g ref="char:EOLhyphen"/>mature, or ſtore, then the Maſter of a private family, and fright<g ref="char:EOLhyphen"/>ed from a viſible ſtorme, to an uncertaine, and now failing ſhelter. A Court vaniſh't, and no footſteps left of its former beautie, and civility; a Church ſhuffeld to indiſtinction; degrees unadmitted, Sects, and Schiſmes, Hereſies, and Blaſphemies, in this time, and Kingdome, vying with all thoſe of paſt Ages, and forreigne Nations; and in number, partaken and counte<g ref="char:EOLhyphen"/>nanced by Grandees of the new State, and walking in <hi>foro</hi> un<g ref="char:EOLhyphen"/>controled; and like the wilde Boares of the Forreſt, rooting up the eſtabliſht Religion, while he ancient, and true Proteſtant changes turns, with the laſt ages Seperatiſt; and ſerves God in corners, to avoid reproach.</p>
+            <p>A Nobility clouded by their Suns Eclipſe, and the Foggs ariſing from their inferiors, and their owne degenerate ſpirits; their very honours being made arbitrary, and no longer theirs, then the common throng ſhall continue them in vogue, which is alwaies dated with their ſubſervience to the better felt, then diſcovered faction: A Gentry diſcountenanced by an intro<g ref="char:EOLhyphen"/>duced partie, aw'd by Tenants, and Servants, impoveriſhed by long Sequeſtrations, and ſecond purchaſes of their lawfull, and not to any ſubjects ſingle, or aggregate, by any act forfeit<g ref="char:EOLhyphen"/>able inheritance. A giddie Comminaltie, and tumultuous, fond of new words, who would have ſomething, and otherwaies then it was; but what, how much, and how done they are not
+<pb n="6" facs="tcp:160165:4"/>bound to diſcover, till they know themſelves; Their freedome loſt, nay rather given away, liberty of perſon, propertie of e<g ref="char:EOLhyphen"/>ſtate, reputation, and good name, being become meer Notions, and by law not preſervable, nor vindicable. Cities diſpeopled, untraded by the obſtruction, and impoveriſht by the charge of a continued warre, and as much confounded in Government, as opinion; Univerſities, and Inns of Courts motlied by a mi<g ref="char:EOLhyphen"/>ſcellanie of families, a mixture of beardleſſe, and brainleſſe Pro<g ref="char:EOLhyphen"/>feſſors, and Governors: a Junior batchelor, and a Senior fel<g ref="char:EOLhyphen"/>low, being tearmes convertible, lectures of law neglected, and of Divinity, and Arts performed by ſuch, who are therefore unfit to reade, becauſe not uſed to heare. The refuſall of a not un<g ref="char:EOLhyphen"/>derſtood, or to well underſtood Covenant; being enough to break lawes of pious founders of Colledges, and eſtabliſhment of a ſuc<g ref="char:EOLhyphen"/>ceſſion of learned, and religious Princes to the diſſeizing, and eje<g ref="char:EOLhyphen"/>ction of many, and the moſt able Maſters, Fellows, and Schollers, from their lawfull and rightfull freeholds; by the ſupply of whoſe roomes, a man would gueſſe that there were a deſigne to increaſe, and propagate Devotion by an Introduction of Ignorance. And all this juſtified by ſonnes of the ſame ſiſter-mothers. Lawyers pleading, and Miniſters preaching Ordinances, againſt the knowne Lawes of God, and he Nation: A Land more then skim'd of its Inhabitants, and generally haraſſed, and worne out by payes, and quarterings, growne almoſt wilde in want of husbandry, and ſo much at emnity with it ſelfe, that there is hardly found a ſingle, and that a faithfull freindſhip, or good neighbourhood: And all this by a warre, raiſed by our ſelves for Reformation ſake; acted, and proſecuted by, and upon our ſelves, as if we had in he darke, loſt the ſpirit of ſober Chriſtians, and grop't out the furie of inflamed Bacchinalls, and could finde no place to skowre our long ruſted ſwords, o<g ref="char:EOLhyphen"/>ther then our owne bowels. It is a hightened and ſuperlative af<g ref="char:EOLhyphen"/>fliction to a diſeaſed perſon, ſo onely to be made to underſtand his defects, as to know them to be irreparable.</p>
+            <p>Hold now an even hand, and poize theſe two conditions im<g ref="char:EOLhyphen"/>partially, and tell me, tell thy ſelfe, where lyes the improvement? Where the Reformation? If yet to be expected, where the foun<g ref="char:EOLhyphen"/>dation
+<pb n="7" facs="tcp:160165:4"/>is layd for ſuch a hoped ſuperſtructure? Sure Common<g ref="char:EOLhyphen"/>wealths, and Churches have not a Philoſophicall Generation, the new out of the perverſion, the corruption of the ancient Government; the new out of the extirpation, the annihila<g ref="char:EOLhyphen"/>ting the eſtabliſht old religion; And if ſo great tempeſts, and earthquakes of Drums and Artillery, ſubverſions and immerſi<g ref="char:EOLhyphen"/>ons, of perſons and eſtates: Such unreckonable expence of a Kingdome coin'd (to effect) forſupplyes, and ſuch inundations, and overwhelmings of blood, beget but a bare promiſe of ſuch an iſſue, what remaines for the Nation to undergoe before its production? Doubtleſſe this birth can at theſe rates be atten<g ref="char:EOLhyphen"/>ded with no leſſe then a deſolation, when there ſhall be too few left, and thoſe too much enfeeble to fall out about the en<g ref="char:EOLhyphen"/>joyment of ſo great a happineſſe.</p>
+            <p>Reaſon was given to man for a direction, as well as a diſtin<g ref="char:EOLhyphen"/>ction, and generally we believe our eyes above any aſſertions: Poore ſelf-deceiving <hi>Engliſh-man,</hi> who canſt not bee ſenſible how fantaſtick thy opinionate Reformation is, how reall the devaſtation of thy ſubſtance, and canſt finde a hope that the one will improve, and not a feare that the other may inmpaire; As thou art onely miſerable in a proportion at preſent from thy ſelfe; ſo the remaining degrees which thou art to take in mi<g ref="char:EOLhyphen"/>ſery, are not to be proceeded in without thy conſent to a con<g ref="char:EOLhyphen"/>tinued vaſſilage.</p>
+            <p>It is juſt with God, and abates of the condemnation of im<g ref="char:EOLhyphen"/>poſing Man to lay burdens, and uſe goades on thoſe who will be beaſts by diſavowing their reaſon, or pinning it upon opinion of anothers infallibilitie; and as juſt to ſtrike him blind, who will not ſee an object of his marke, in other colours, or dimenſions, then what are rendred by anothers ſpectacles.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
